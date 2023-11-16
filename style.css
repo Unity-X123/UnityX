@@ -1,0 +1,469 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	
+font-family: "Cabinet Grotesk Variable"!important; 
+                                            
+}
+html{scroll-behavior: smooth!important;}
+ h1{
+margin-top: 4%!important;
+	 color:#151515!important;
+	 font-size: 45px!important;
+	 font-weight: bold!important;
+	 
+}
+p{
+	color:#000000!important;
+}
+
+/*---btn---*/
+.btn-outline-info{
+	
+	width: 138px;
+	border-radius:5px;
+	border-color:#000000!important; 
+	color:#FFFFFF!important;
+	background-color:#F17720 !important;
+	border: none!important;
+}
+
+.btn:hover{
+	background-color:#FFA630!important;
+	color:#000000!important;
+}
+/*----btn-----*/
+
+
+/*-----top-nav----*/
+.my-img img{
+	
+	width: 100px;
+	
+}
+
+
+.margin-location{
+	padding-left: 5%;
+}
+
+
+
+
+
+.my-nav{
+	padding: 5px;
+	margin-left: 239px;
+}
+.my-2-nav{
+	box-shadow: 0px 1px 1px;	
+}
+.margin-nav{
+	margin-left:43px;
+}
+/*------nav---*/
+.margin-btn{
+	margin-left: 152px;
+	margin-top: 4px;
+}
+
+
+/*-----links-----*/
+.nav-link:hover{
+	color: #F17720!important;
+}
+.nav-link{
+	color:#151515!important;
+}
+/*-----links-----*/
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+		background-color: #FFFFFF!important;
+	
+	
+}
+
+	
+/*------what we offer -----*/	
+.my-card img{
+	transition: 0.5s;
+}
+.my-card img:hover{
+	
+
+transform: scale(1.3);
+	
+}
+.my-card{
+	box-shadow: 0 7px 11px 0 rgba(0, 0, 0, 0.15);
+}
+
+.img-thumbnail{
+	height:500px!important;
+
+	padding: 0px!important;
+	border:none!important;
+}
+.card-img{
+	width: 60%!important;
+	margin-left: 19%;
+	margin-top: 16%;
+	
+}
+
+.my-btn{
+	margin-left: 34%;
+}
+.my-card-box{
+	margin: 0px;
+
+	width: 409px;
+	height: 285px;
+	overflow: hidden;
+	cursor: pointer;
+
+	
+}
+/*---------what we offer close-------*/
+/*---------banner-------*/
+.banner  {
+	margin-top: 5%;
+	
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.banner h2{
+	font-weight:800;
+	margin-left: 33%;
+	padding-top: 230px;
+	color: #FCF9F9;
+	padding-bottom: 4px;
+	font-size: 50px;
+}
+.banner p{
+	font-weight: 100;
+	
+	text-align: center;
+	font-size: 23px;
+	margin-left: 59px;
+	color: #FCF9F9!important;
+}
+.banner{
+	background-image:url("img/banner_fruits_ingredients[1].jpg");
+	width: 100%;
+	height: 80vh;
+}
+.btn-margin{
+	margin-left: 48%;
+}
+/*--------OUR COSTMISED--------*/
+
+.my-texture{
+	background-image: url("img/bg-pattern-1.jpg");
+    background-repeat: repeat;
+    background-size: auto;
+    background-color: #f7f7f7;
+	padding: 80px;
+	margin-top: 44px;
+}
+.my-PRO{
+	margin-left: 71px;
+}
+.my_class{
+	transition:0.5s;
+	
+}
+.my_class:hover{
+	transform: scale(1.1);
+z-index: 2;
+}
+.my_class-2{
+	transition:0.5s;
+	z-index:1;
+}
+.my_class-2:hover{
+	transform: scale(1.1);
+	
+	z-index:1 ;
+}
+.my_class-3{
+	transition:0.5s;
+	z-index: 1;
+}
+.my_class-3:hover{
+	transform: scale(1.1);
+	z-index:1;
+}
+.my_class-4{
+	transition:0.5s;
+}
+.my_class-4:hover{
+	transform: scale(1.1
+	)
+
+}
+
+/*-------OUR COSTMISED--------*/
+
+/*------why-chose us------*/
+.my-space a{
+	letter-spacing: 8px!important;
+	margin-left:50px;
+}
+.my-class{
+	letter-spacing: 8px!important;
+	
+}
+.my-class h4{
+	margin-left: 5%;
+	
+}
+.my-cl{
+letter-spacing: 8px!important;
+	margin-left: 2px;	
+}
+
+.my-p{
+	margin-left: 69px;
+	
+}
+
+.border-top{
+	margin-top: 10%!important;
+	    
+}
+
+.cherry{
+	margin-top: 17%;
+
+}
+
+/*--------why choose us-----*/
+
+
+
+/*---------about us--------*/
+
+.my-tabs{
+	margin-top: 20%;
+	margin-left: 20%;
+}
+.btn-tab{
+	margin-left: 28%;
+	margin-top: 3%;
+}
+
+/*---------about us--------*/
+
+
+
+/*--------textimonial-----*/
+.my-comment img{
+border-radius: 50%;
+}
+.my-comment{
+
+	margin-top: 26px;
+}
+
+.my-later{
+	letter-spacing: 2px;
+}
+
+.my-testimonial h2{
+	color:#656565;
+	font-size: 45px;
+	font-weight: bold;
+}
+.my-testimonial{
+width: 100%!important;
+}
+/*--------textimonial-----*/
+
+
+
+/*-------Gallery--------*/
+.my-gallery{
+	width: 346px!important;
+}
+.gallery-text{
+	font-size:24px;
+	color: #656565;
+}
+.img{
+	width: 200px;
+	height: 150px;
+}
+
+.img img{
+	object-fit:cover;
+	width: 200px;
+	height:150px;
+	border-radius: 10px;
+}
+/*-------Gellery--------*/
+/*-------footer--------*/
+.margin{
+	margin-left: 153px;
+}
+.my-box{
+	margin-left: 20%;
+}	
+
+
+/*----------last-banner-------*/
+.bg-2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 2em;
+	color: aliceblue;
+	text-shadow: 2px 2px 2px #000;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-2{
+	background-image:url("img/top-view-delicious-cake-arrangement.jpg");
+	width: 100%;
+	height: 41vh;
+	margin-top:5%;
+}
+.margin-icone{
+	margin-left: 50%;
+}
+/*----------last-banner-------*/
+.bg-1  {
+	margin-top: 5%;
+	
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-1 h2{
+	font-weight:800;
+	margin-left: 33%;
+	padding-top: 230px;
+	color: #656565;
+}
+.bg-1 p{
+	font-weight: 100;
+	color:  #656565;
+	text-align: center;
+	font-size: 23px;
+	margin-left: 59px;
+}
+.bg-1{
+	background-image:url("img/bg-cta-1.jpg");
+	width: 100%;
+	height: 80vh;
+}
+
+
+
+/*----------last-banner-------*/
+/*------latest news-------*/
+.img-news img{
+	width: 150px;
+	height:85px;
+	object-fit: cover;
+}
+
+
+
+
+
+
+@media (min-width: 300px) and (max-width:1000px) {
+	h1 {
+		font-size: 24px!important;
+	}
+	h4{
+		font-size: 19px!important;
+	}
+	p{
+		font-size: 13px!important;
+	}
+	.margin-nav{
+		margin-left: 4px;
+	}
+	
+	.my-img{
+		margin-right: 91px!important;
+	}
+	.margin-btn{
+		margin: -57px!important;
+		
+	}
+	.my-card{
+		margin-top: 5%;
+	}
+	.my-card-box{
+		width: 100%;
+	}
+	
+	.banner h2{
+		margin-left: 6%;
+		padding: 13px;
+		font-size: 24px;
+	}
+	.banner p{
+	
+		margin-left: 0px;
+	}
+	.btn-margin{
+		margin-left: 30%;
+	}
+	
+	.my-texture{
+		padding: 40px;
+	}
+	
+	.my-media{
+		margin-right: 20px;
+	}
+
+.bg-1 h2{
+		margin-left: 6%;
+		padding: 13px;
+		font-size: 24px;
+	}
+	.bg-1 p{
+	font-size: 13px;
+		margin-left: 0px;
+	}
+.btn-margi{
+		margin-left: 24%!important;
+	}
+	.size-p{
+		font-size: 12px;
+	}
+	.choos-us img{
+		width: 200px;
+	}
+	.banner{
+		height: 39vh;
+	}
+	.bg-1{
+		height: 41vh;
+	}
+	.img img{
+		margin-left: 59px;
+	}
+	.my-PRO{
+		margin-left: 38px;
+	}
+	.btn-tab{
+		margin-left: 23px;
+	}
+	.img-banner img{
+		width: 70px;
+		margin-left: 123px!important;
+		
+	}
+
+}
